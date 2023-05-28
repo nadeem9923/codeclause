@@ -18,4 +18,9 @@ The prerequisites are as follows :
            4. RESUME SONG
            5. NEXT SONG
            
- # IDE Used: PyCharm
+# IDE Used: PyCharm
+
+# Operations to be performed
+
+1. Load the Project in Pycharm
+2. Execute file main.py as "python main.py"
