@@ -1,4 +1,4 @@
-# Project Title: Music Player in Python
+# Project Title: URL Shortener using Python
 
 In this code, I used the flask library to create a basic web application. The shorten_url function generates a random short URL consisting of 6 characters from the set of uppercase letters, lowercase letters, and digits.
 
