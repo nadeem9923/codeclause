@@ -17,8 +17,7 @@ pipeline {
                 script {
                     ansiblePlaybook(
                         playbook: '/home/ec2-user/copyfiles.yml',
-                        inventory: 'inventory'"
-                       )
+                    )
                 }
             }
         }
